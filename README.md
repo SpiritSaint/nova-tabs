@@ -1,6 +1,8 @@
 # Laravel Nova Tabs Package
 [![Latest Version on Github](https://img.shields.io/packagist/v/eminiarts/nova-tabs.svg?style=flat)](https://packagist.org/packages/eminiarts/nova-tabs)
 
+> For local nova installation.
+
 1. [Installation](#Installation)
 2. [Usage](#Usage)
     1. [Tabs Panel](#tabs-panel)
